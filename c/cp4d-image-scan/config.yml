@@ -1,0 +1,4 @@
+user_input:
+        release: 4.6.4
+        component: ibm-wsl
+        branch: promoted/case-repo-promoted
